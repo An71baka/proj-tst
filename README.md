@@ -1,2 +1,4 @@
 # proj-tst
-working project 
+
+working project
+myfirst project on my way to DEVOPS
